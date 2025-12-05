@@ -2,6 +2,8 @@
 
 E-commerce watch store built with React and dark/light mode support.
 
+## Live Preview
+https://watch-brand-eight.vercel.app/
 
 ## Technologies Used
 
